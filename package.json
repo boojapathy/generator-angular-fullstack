@@ -15,8 +15,8 @@
     "front-end",
     "app"
   ],
-  "homepage": "https://github.com/angular-fullstack/generator-angular-fullstack",
-  "bugs": "https://github.com/angular-fullstack/generator-angular-fullstack/issues",
+  "homepage": "https://github.com/boojapathy/generator-angular-fullstack",
+  "bugs": "https://github.com/boojapathy/generator-angular-fullstack/issues",
   "author": "Tyler Henkel (http://tylerhenkel.com/)",
   "contributors": [
     "Andrew Koroluk <koroluka@gmail.com> (http://andrewk.me/)",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular-fullstack/generator-angular-fullstack.git"
+    "url": "git://github.com/boojapathy/generator-angular-fullstack.git"
   },
   "scripts": {
     "test": "grunt test"
